@@ -21,8 +21,12 @@ input {
 
 }
 
+p{
+    color: #D21312;
+}
+
 h2{
-    color: #6D5D6E;
+    color:  #87CBB9;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
@@ -33,10 +37,10 @@ button {
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    color: #d5c3d6;
+    color:  #393646;
     border-radius: 5px;
     border-style: hidden;
-    background-color: #393646;
+    background-color: #87CBB9;
     margin-top: 25px;
 
 }
@@ -44,6 +48,11 @@ button {
 button:hover{
     background-color: #F3E99F;
     color: #393646;
+}
+
+.wrapper{
+    padding: 10%;
+    background-color: #393646;
 }
 
 
